@@ -37,7 +37,7 @@ crash mitigation system is used here. A collision avoidance system (CAS), also k
 
 ## How
 
-    This system can fit every vehicle.
+    This system can fit every in vehicle. All it is doing that the ultra sonic sensor detects the obstacle and inform the driver to slow down its speed.
 
 # Detail requirements
 ##  High level Requirements
